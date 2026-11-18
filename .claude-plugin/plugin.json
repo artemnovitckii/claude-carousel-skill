@@ -1,0 +1,10 @@
+{
+  "name": "carousel-skill",
+  "version": "1.0.0",
+  "description": "A Claude Code skill that makes a finished Instagram carousel from a topic: proven references from Top Carousels, the hook and every slide, layered HTML slides rendered to PNG and checked.",
+  "author": { "name": "Artem Novitckii", "url": "https://novitckii.com" },
+  "homepage": "https://novitckii.com/resources/carousel-skill/",
+  "repository": "https://github.com/artemnovitckii/claude-carousel-skill",
+  "license": "MIT",
+  "keywords": ["instagram", "carousel", "content", "design", "top carousels"]
+}

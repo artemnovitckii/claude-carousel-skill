@@ -1,0 +1,12 @@
+{
+  "name": "claude-carousel-skill",
+  "owner": { "name": "Artem Novitckii", "url": "https://novitckii.com" },
+  "description": "Artem Novitckii's carousel skill for Claude Code.",
+  "plugins": [
+    {
+      "name": "carousel-skill",
+      "source": "./",
+      "description": "Makes a finished Instagram carousel from a topic, using proven references from Top Carousels."
+    }
+  ]
+}
